@@ -1,0 +1,32 @@
+C:\Users\jinto\source\repos\калькулятор\калькулятор\bin\Debug\net8.0-windows\калькулятор.exe
+C:\Users\jinto\source\repos\калькулятор\калькулятор\bin\Debug\net8.0-windows\калькулятор.deps.json
+C:\Users\jinto\source\repos\калькулятор\калькулятор\bin\Debug\net8.0-windows\калькулятор.runtimeconfig.json
+C:\Users\jinto\source\repos\калькулятор\калькулятор\bin\Debug\net8.0-windows\калькулятор.dll
+C:\Users\jinto\source\repos\калькулятор\калькулятор\bin\Debug\net8.0-windows\калькулятор.pdb
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.csproj.GenerateResource.cache
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.AssemblyInfoInputs.cache
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.AssemblyInfo.cs
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.dll
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\refint\калькулятор.dll
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.pdb
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.genruntimeconfig.cache
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\ref\калькулятор.dll
+C:\Users\jinto\source\repos\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.Калькулятор.resources
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\bin\Debug\net8.0-windows\калькулятор.exe
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\bin\Debug\net8.0-windows\калькулятор.deps.json
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\bin\Debug\net8.0-windows\калькулятор.runtimeconfig.json
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\bin\Debug\net8.0-windows\калькулятор.dll
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\bin\Debug\net8.0-windows\калькулятор.pdb
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.Калькулятор.resources
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.csproj.GenerateResource.cache
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.AssemblyInfoInputs.cache
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.AssemblyInfo.cs
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.dll
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\refint\калькулятор.dll
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.pdb
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\калькулятор.genruntimeconfig.cache
+C:\Users\jinto\Desktop\синергия практика\калькулятор\калькулятор\obj\Debug\net8.0-windows\ref\калькулятор.dll
